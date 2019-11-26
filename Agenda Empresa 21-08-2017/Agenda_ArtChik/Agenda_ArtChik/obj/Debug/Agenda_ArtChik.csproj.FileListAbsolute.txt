@@ -1,0 +1,42 @@
+C:\Leandro\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\Agenda_ArtChik.exe.config
+C:\Leandro\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\Agenda_ArtChik.exe
+C:\Leandro\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\Agenda_ArtChik.pdb
+C:\Leandro\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.csprojResolveAssemblyReference.cache
+C:\Leandro\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Form1.resources
+C:\Leandro\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Properties.Resources.resources
+C:\Leandro\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.csproj.GenerateResource.Cache
+C:\Leandro\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.exe
+C:\Leandro\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.pdb
+C:\Leandro\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Cadastro.resources
+C:\Leandro\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.cliente.resources
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\Agenda_ArtChik.exe.config
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.exe
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.pdb
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\Agenda_ArtChik.exe
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\Agenda_ArtChik.pdb
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.csprojResolveAssemblyReference.cache
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Cadastro.resources
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.cliente.resources
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Form1.resources
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Properties.Resources.resources
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.csproj.GenerateResource.Cache
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\DotNetBrowser.dll
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\DotNetBrowser.Chromium.dll
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Senha.resources
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Info.resources
+C:\Leandro\Softwares-ArtChik\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Lembrete.resources
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\Agenda_ArtChik.exe.config
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.exe
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.pdb
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\Agenda_ArtChik.exe
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\Agenda_ArtChik.pdb
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\bin\Debug\DotNetBrowser.Chromium.dll
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Cadastro.resources
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.cliente.resources
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Form1.resources
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Info.resources
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Lembrete.resources
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Properties.Resources.resources
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.Senha.resources
+C:\Users\Leandro\Desktop\C#\Importantes\Agenda Empresa 21-08-2017\Agenda Empresa 21-08-2017\Agenda_ArtChik\Agenda_ArtChik\obj\Debug\Agenda_ArtChik.csproj.GenerateResource.Cache
